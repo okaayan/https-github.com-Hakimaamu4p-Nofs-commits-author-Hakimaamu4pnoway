@@ -13,7 +13,7 @@ const UPoLPrefix = [
     version: '1.2.1',
     role: 0,
     category: 'AI',
-    author: 'UPoL 🌸',
+    author: 'HEAvEN',
     shortDescription: '',
     longDescription: '',
   },
@@ -28,7 +28,7 @@ const UPoLPrefix = [
       
      const upol = event.body.substring(ahprefix.length).trim();
    if (!upol) {
-        await message.reply('🧘‍♀️𝐇𝐞𝐚𝐯𝐞𝐧 🧘‍♀️ 𝐢𝐬 𝐦𝐲 𝐍𝐚𝐦𝐞 bae😁');
+        await message.reply('🧘‍♀️𝐇𝐞𝐚𝐯𝐞𝐧 🧘‍♀️ 𝐢𝐬 𝐦𝐲 𝐍𝐚𝐦𝐞 𝐛𝐚𝐤𝐚😁');
         return;
       }
       
