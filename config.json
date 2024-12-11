@@ -35,29 +35,29 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "61557094816783"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
-  "prefix": "/",
+  "nickNameBot": "≪🧘‍♀️≫◦•●◉✿𝙃𝙀𝘼𝙑𝙀𝙉 𝙎𝙆𝙀𝙏𝘾𝙃 𝘽Ø𝙏🤖🧘‍♀️✿◉●•◦",
+  "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
+  "authorName": "HEAvEN 🧘‍♀️",
+  "facebook2": "https://www.facebook.com/profile.php?id=61557094816783",
+  "facebook": "https://www.facebook.com/profile.php?id=61557094816783",
   "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
+  "replit": "https://replit.com/@Heaven-BOT",
+  "github": "https://github.com/Heaven-BOT-404",
   "insta": "no",
-  "age": "18+",
+  "age": "17",
   "TG": "",
   "database": {
     "type": "sqlite",
@@ -171,7 +171,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7271330272945067"
+      ""
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
